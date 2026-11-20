@@ -92,7 +92,7 @@ Learn the workflow employers expect: triage, investigation, escalation and repor
 **The logo library behind haxcamp: official logos of the security tools we teach and use.**
 Taken from each tool's official website · transparent backgrounds · every available version.
 
-![Logos](https://img.shields.io/badge/logos-317-0d1117?style=for-the-badge&labelColor=3b4fe4)
+![Logos](https://img.shields.io/badge/logos-320-0d1117?style=for-the-badge&labelColor=3b4fe4)
 ![Tools](https://img.shields.io/badge/tools-173-0d1117?style=for-the-badge&labelColor=3b4fe4)
 ![Background](https://img.shields.io/badge/background-transparent-0d1117?style=for-the-badge&labelColor=3b4fe4)
 ![Formats](https://img.shields.io/badge/formats-SVG%20%7C%20PNG%20%7C%20WEBP-0d1117?style=for-the-badge&labelColor=3b4fe4)
@@ -346,7 +346,7 @@ Every file is named `<Tool> Official Logo (<Version>).<ext>`. Click a version na
 | <img src="offensive-security/NetExec%20Official%20Logo.png" height="40" alt="NetExec"> | **NetExec**<br><sub>AD / Network Pentest: Network service exploitation tool (successor to CrackMapExec)</sub> | [Icon](offensive-security/NetExec%20Official%20Logo%20(Icon).png) `png` · [White](offensive-security/NetExec%20Official%20Logo%20(White).png) `png` · [Logo](offensive-security/NetExec%20Official%20Logo.png) `png` |
 | <img src="offensive-security/Nikto%20Official%20Logo.png" height="40" alt="Nikto"> | **Nikto**<br><sub>Web Scanner: Web server vulnerability scanner</sub> | [Logo](offensive-security/Nikto%20Official%20Logo.png) `png` |
 | <img src="offensive-security/Nmap%20Official%20Logo.png" height="40" alt="Nmap"> | **Nmap**<br><sub>Network Scanner: Network discovery and port scanner</sub> | [Website](offensive-security/Nmap%20Official%20Logo%20(Website).png) `png` · [Logo](offensive-security/Nmap%20Official%20Logo.png) `png` |
-| <img src="offensive-security/Nuclei%20Official%20Logo.png" height="40" alt="Nuclei"> | **Nuclei**<br><sub>Vulnerability Scanner: Template-based vulnerability scanner by ProjectDiscovery</sub> | [Logo](offensive-security/Nuclei%20Official%20Logo.png) `png` |
+| <img src="offensive-security/Nuclei%20Official%20Logo.png" height="40" alt="Nuclei"> | **Nuclei**<br><sub>Vulnerability Scanner: Template-based vulnerability scanner by ProjectDiscovery</sub> | [Icon White](offensive-security/Nuclei%20Official%20Logo%20(Icon%20White).png) `png` · [Icon](offensive-security/Nuclei%20Official%20Logo%20(Icon).png) `png` · [White](offensive-security/Nuclei%20Official%20Logo%20(White).png) `png` · [Logo](offensive-security/Nuclei%20Official%20Logo.png) `png` |
 | <img src="offensive-security/Parrot%20OS%20Official%20Logo%20(Icon).svg" height="40" alt="Parrot OS"> | **Parrot OS**<br><sub>Pentest OS: Security-focused Linux distribution</sub> | [Icon](offensive-security/Parrot%20OS%20Official%20Logo%20(Icon).svg) `svg` |
 | <img src="offensive-security/Sliver%20Official%20Logo.svg" height="40" alt="Sliver"> | **Sliver**<br><sub>C2 / Red Team: Open-source adversary emulation and C2 framework</sub> | [Logo](offensive-security/Sliver%20Official%20Logo.svg) `svg` |
 | <img src="offensive-security/sqlmap%20Official%20Logo.png" height="40" alt="sqlmap"> | **sqlmap**<br><sub>SQL Injection: Automatic SQL injection and database takeover tool</sub> | [Black Background](offensive-security/sqlmap%20Official%20Logo%20(Black%20Background).png) `png` · [Tarsier](offensive-security/sqlmap%20Official%20Logo%20(Tarsier).png) `png` · [Logo](offensive-security/sqlmap%20Official%20Logo.png) `png` |
