@@ -92,7 +92,7 @@ Learn the workflow employers expect: triage, investigation, escalation and repor
 **The logo library behind haxcamp: official logos of the security tools we teach and use.**
 Taken from each tool's official website · transparent backgrounds · every available version.
 
-![Logos](https://img.shields.io/badge/logos-320-0d1117?style=for-the-badge&labelColor=3b4fe4)
+![Logos](https://img.shields.io/badge/logos-321-0d1117?style=for-the-badge&labelColor=3b4fe4)
 ![Tools](https://img.shields.io/badge/tools-173-0d1117?style=for-the-badge&labelColor=3b4fe4)
 ![Background](https://img.shields.io/badge/background-transparent-0d1117?style=for-the-badge&labelColor=3b4fe4)
 ![Formats](https://img.shields.io/badge/formats-SVG%20%7C%20PNG%20%7C%20WEBP-0d1117?style=for-the-badge&labelColor=3b4fe4)
@@ -254,7 +254,7 @@ Every file is named `<Tool> Official Logo (<Version>).<ext>`. Click a version na
 | <img src="dfir-forensics/Hayabusa%20Official%20Logo.png" height="40" alt="Hayabusa"> | **Hayabusa**<br><sub>Log Forensics: Fast Windows event log forensics timeline generator</sub> | [Icon](dfir-forensics/Hayabusa%20Official%20Logo%20(Icon).png) `png` · [Logo](dfir-forensics/Hayabusa%20Official%20Logo.png) `png` |
 | <img src="dfir-forensics/Magnet%20AXIOM%20Official%20Logo.svg" height="40" alt="Magnet AXIOM"> | **Magnet AXIOM**<br><sub>Digital Forensics: Commercial digital forensics for computers, mobile and cloud</sub> | [Icon](dfir-forensics/Magnet%20AXIOM%20Official%20Logo%20(Icon).svg) `svg` · [Logo](dfir-forensics/Magnet%20AXIOM%20Official%20Logo.svg) `svg` |
 | <img src="dfir-forensics/Sigma%20Official%20Logo.svg" height="40" alt="Sigma"> | **Sigma**<br><sub>Detection Rules: Generic, SIEM-agnostic detection rule format</sub> | [White](dfir-forensics/Sigma%20Official%20Logo%20(White).svg) `svg` · [Logo](dfir-forensics/Sigma%20Official%20Logo.svg) `svg` |
-| <img src="dfir-forensics/Velociraptor%20Official%20Logo.svg" height="40" alt="Velociraptor"> | **Velociraptor**<br><sub>DFIR: Endpoint visibility and digital forensics at scale</sub> | [Icon](dfir-forensics/Velociraptor%20Official%20Logo%20(Icon).svg) `svg` · [Logo](dfir-forensics/Velociraptor%20Official%20Logo.svg) `svg` |
+| <img src="dfir-forensics/Velociraptor%20Official%20Logo.svg" height="40" alt="Velociraptor"> | **Velociraptor**<br><sub>DFIR: Endpoint visibility and digital forensics at scale</sub> | [Icon](dfir-forensics/Velociraptor%20Official%20Logo%20(Icon).svg) `svg` · [Vertical](dfir-forensics/Velociraptor%20Official%20Logo%20(Vertical).png) `png` · [Logo](dfir-forensics/Velociraptor%20Official%20Logo.svg) `svg` |
 | <img src="dfir-forensics/Volatility%20Official%20Logo.png" height="40" alt="Volatility"> | **Volatility**<br><sub>Memory Forensics: Memory forensics framework for RAM analysis</sub> | [Vertical](dfir-forensics/Volatility%20Official%20Logo%20(Vertical).png) `png` · [Logo](dfir-forensics/Volatility%20Official%20Logo.png) `png` |
 | <img src="dfir-forensics/YARA%20Official%20Logo.png" height="40" alt="YARA"> | **YARA**<br><sub>Malware Detection: Pattern-matching rules to identify and classify malware</sub> | [Logo](dfir-forensics/YARA%20Official%20Logo.png) `png` |
 
