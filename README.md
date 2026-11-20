@@ -92,12 +92,12 @@ Learn the workflow employers expect: triage, investigation, escalation and repor
 **The logo library behind haxcamp: official logos of the security tools we teach and use.**
 Taken from each tool's official website · transparent backgrounds · every available version.
 
-![Logos](https://img.shields.io/badge/logos-277-0d1117?style=for-the-badge&labelColor=3b4fe4)
-![Tools](https://img.shields.io/badge/tools-152-0d1117?style=for-the-badge&labelColor=3b4fe4)
+![Logos](https://img.shields.io/badge/logos-306-0d1117?style=for-the-badge&labelColor=3b4fe4)
+![Tools](https://img.shields.io/badge/tools-172-0d1117?style=for-the-badge&labelColor=3b4fe4)
 ![Background](https://img.shields.io/badge/background-transparent-0d1117?style=for-the-badge&labelColor=3b4fe4)
-![Formats](https://img.shields.io/badge/formats-SVG%20%7C%20PNG-0d1117?style=for-the-badge&labelColor=3b4fe4)
+![Formats](https://img.shields.io/badge/formats-SVG%20%7C%20PNG%20%7C%20WEBP-0d1117?style=for-the-badge&labelColor=3b4fe4)
 
-[haxcamp Brand (1)](#brand) · [SIEM (14)](#siem) · [Logging & Monitoring (5)](#logging-monitoring) · [Network Security (18)](#network-security) · [Endpoint Security (11)](#endpoint-security) · [Identity & Secrets (5)](#identity) · [DFIR & Forensics (10)](#dfir-forensics) · [Malware Analysis (9)](#malware-analysis) · [Threat Intel & SOAR (14)](#threat-intel-soar) · [Vulnerability Management (7)](#vulnerability-management) · [Offensive Security (19)](#offensive-security) · [Cloud Security (18)](#cloud-security) · [Labs & Training (7)](#labs-training) · [Platforms & Infra (14)](#platforms)
+[haxcamp Brand (1)](#brand) · [SIEM (14)](#siem) · [Logging & Monitoring (6)](#logging-monitoring) · [Network Security (24)](#network-security) · [Endpoint Security (11)](#endpoint-security) · [Identity & Secrets (5)](#identity) · [DFIR & Forensics (10)](#dfir-forensics) · [Malware Analysis (9)](#malware-analysis) · [Threat Intel & SOAR (14)](#threat-intel-soar) · [Vulnerability Management (13)](#vulnerability-management) · [Offensive Security (26)](#offensive-security) · [Cloud Security (18)](#cloud-security) · [Labs & Training (7)](#labs-training) · [Platforms & Infra (14)](#platforms)
 
 </div>
 
@@ -119,6 +119,9 @@ Every file is named `<Tool> Official Logo (<Version>).<ext>`. Click a version na
 
 > [!TIP]
 > White logos are invisible on GitHub's light theme. Switch to dark mode to preview them.
+
+> [!NOTE]
+> Files named `Text Logo` (for example Sysmon) are the tool's name set in its official font, because the tool has no logo file of its own.
 
 > [!IMPORTANT]
 > All logos are trademarks of their respective owners and are collected here for reference and identification only.
@@ -167,6 +170,7 @@ Every file is named `<Tool> Official Logo (<Version>).<ext>`. Click a version na
 | <img src="logging-monitoring/Grafana%20Alloy%20Official%20Logo.svg" height="40" alt="Grafana Alloy"> | **Grafana Alloy**<br><sub>Telemetry Collector: Collector for logs, metrics and traces (OpenTelemetry)</sub> | [Icon](logging-monitoring/Grafana%20Alloy%20Official%20Logo%20(Icon).svg) `svg` · [White](logging-monitoring/Grafana%20Alloy%20Official%20Logo%20(White).svg) `svg` · [Logo](logging-monitoring/Grafana%20Alloy%20Official%20Logo.svg) `svg` |
 | <img src="logging-monitoring/Grafana%20Loki%20Official%20Logo.png" height="40" alt="Grafana Loki"> | **Grafana Loki**<br><sub>Log Aggregation: Log aggregation system from Grafana Labs</sub> | [Icon](logging-monitoring/Grafana%20Loki%20Official%20Logo%20(Icon).png) `png` · [Logo](logging-monitoring/Grafana%20Loki%20Official%20Logo.png) `png` |
 | <img src="logging-monitoring/osquery%20Official%20Logo%20(Icon).png" height="40" alt="osquery"> | **osquery**<br><sub>Endpoint Visibility: Query your endpoints like a SQL database</sub> | [Icon](logging-monitoring/osquery%20Official%20Logo%20(Icon).png) `png` |
+| <img src="logging-monitoring/Sysmon%20Text%20Logo.png" height="40" alt="Sysmon"> | **Sysmon**<br><sub>Windows Logging: Logs detailed Windows process, network and file activity to the event log</sub> | [Blue](logging-monitoring/Sysmon%20Text%20Logo%20(Blue).png) `png` · [White](logging-monitoring/Sysmon%20Text%20Logo%20(White).png) `png` · [Logo](logging-monitoring/Sysmon%20Text%20Logo.png) `png` |
 
 <p align="right"><a href="#-cybersecurity-logos">↑ back to top</a></p>
 
@@ -176,7 +180,9 @@ Every file is named `<Tool> Official Logo (<Version>).<ext>`. Click a version na
 
 | Logo | Tool | Files |
 |:---:|---|---|
+| <img src="network-security/Angry%20IP%20Scanner%20Official%20Logo%20(Icon).svg" height="40" alt="Angry IP Scanner"> | **Angry IP Scanner**<br><sub>Network Scanner: Fast, simple IP address and port scanner</sub> | [Icon](network-security/Angry%20IP%20Scanner%20Official%20Logo%20(Icon).svg) `svg` |
 | <img src="network-security/Arkime%20Official%20Logo.png" height="40" alt="Arkime"> | **Arkime**<br><sub>Packet Capture: Large-scale full packet capture and search</sub> | [Icon White](network-security/Arkime%20Official%20Logo%20(Icon%20White).png) `png` · [Icon](network-security/Arkime%20Official%20Logo%20(Icon).svg) `svg` · [Logo](network-security/Arkime%20Official%20Logo.png) `png` |
+| <img src="network-security/BruteShark%20Official%20Logo.png" height="40" alt="BruteShark"> | **BruteShark**<br><sub>Network Forensics: Extracts credentials, files and sessions from PCAP files</sub> | [Logo](network-security/BruteShark%20Official%20Logo.png) `png` |
 | <img src="network-security/Check%20Point%20Official%20Logo.svg" height="40" alt="Check Point"> | **Check Point**<br><sub>Firewall / NGFW: Firewall and network security vendor</sub> | [Logo](network-security/Check%20Point%20Official%20Logo.svg) `svg` |
 | <img src="network-security/Cisco%20Official%20Logo.svg" height="40" alt="Cisco"> | **Cisco**<br><sub>Networking / Security: Networking and security vendor (owner of Splunk, Talos and Snort)</sub> | [Logo](network-security/Cisco%20Official%20Logo.svg) `svg` |
 | <img src="network-security/Cloudflare%20Official%20Logo.svg" height="40" alt="Cloudflare"> | **Cloudflare**<br><sub>CDN / WAF: CDN, DDoS protection, WAF and zero-trust services</sub> | [Icon](network-security/Cloudflare%20Official%20Logo%20(Icon).svg) `svg` · [White](network-security/Cloudflare%20Official%20Logo%20(White).svg) `svg` · [Logo](network-security/Cloudflare%20Official%20Logo.svg) `svg` |
@@ -186,12 +192,16 @@ Every file is named `<Tool> Official Logo (<Version>).<ext>`. Click a version na
 | <img src="network-security/OPNsense%20Official%20Logo.svg" height="40" alt="OPNsense"> | **OPNsense**<br><sub>Firewall: Open-source firewall and routing platform</sub> | [Logo](network-security/OPNsense%20Official%20Logo.svg) `svg` |
 | <img src="network-security/Palo%20Alto%20Networks%20Official%20Logo.svg" height="40" alt="Palo Alto Networks"> | **Palo Alto Networks**<br><sub>Firewall / NGFW: Next-generation firewalls and security platform vendor</sub> | [Logo](network-security/Palo%20Alto%20Networks%20Official%20Logo.svg) `svg` |
 | <img src="network-security/pfSense%20Official%20Logo.svg" height="40" alt="pfSense"> | **pfSense**<br><sub>Firewall: Open-source firewall and router</sub> | [Logo](network-security/pfSense%20Official%20Logo.svg) `svg` |
+| <img src="network-security/RustScan%20Official%20Logo.png" height="40" alt="RustScan"> | **RustScan**<br><sub>Port Scanner: Fast port scanner that pipes results into Nmap</sub> | [Logo](network-security/RustScan%20Official%20Logo.png) `png` |
+| <img src="network-security/Scapy%20Official%20Logo.png" height="40" alt="Scapy"> | **Scapy**<br><sub>Packet Crafting: Python library to craft, send and dissect network packets</sub> | [Logo](network-security/Scapy%20Official%20Logo.png) `png` |
 | <img src="network-security/Security%20Onion%20Official%20Logo.svg" height="40" alt="Security Onion"> | **Security Onion**<br><sub>NSM Platform: Free Linux distro for threat hunting, network monitoring and log management</sub> | [Icon White](network-security/Security%20Onion%20Official%20Logo%20(Icon%20White).svg) `svg` · [Icon](network-security/Security%20Onion%20Official%20Logo%20(Icon).svg) `svg` · [White](network-security/Security%20Onion%20Official%20Logo%20(White).svg) `svg` · [Logo](network-security/Security%20Onion%20Official%20Logo.svg) `svg` |
 | <img src="network-security/Snort%20Official%20Logo.png" height="40" alt="Snort"> | **Snort**<br><sub>IDS / IPS: Open-source network intrusion detection and prevention system by Cisco</sub> | [Snort 3 Horizontal](network-security/Snort%20Official%20Logo%20(Snort%203%20Horizontal).png) `png` · [Logo](network-security/Snort%20Official%20Logo.png) `png` |
 | <img src="network-security/Suricata%20Official%20Logo.png" height="40" alt="Suricata"> | **Suricata**<br><sub>IDS / IPS: Open-source network intrusion detection and prevention engine</sub> | [Vertical White](network-security/Suricata%20Official%20Logo%20(Vertical%20White).png) `png` · [Vertical](network-security/Suricata%20Official%20Logo%20(Vertical).png) `png` · [White](network-security/Suricata%20Official%20Logo%20(White).png) `png` · [Logo](network-security/Suricata%20Official%20Logo.png) `png` |
 | <img src="network-security/tcpdump%20Official%20Logo.png" height="40" alt="tcpdump"> | **tcpdump**<br><sub>Packet Capture: Command-line packet capture and analysis tool</sub> | [Logo](network-security/tcpdump%20Official%20Logo.png) `png` |
 | <img src="network-security/Wireshark%20Official%20Logo.svg" height="40" alt="Wireshark"> | **Wireshark**<br><sub>Packet Analysis: The world's most popular network protocol analyser</sub> | [App Icon](network-security/Wireshark%20Official%20Logo%20(App%20Icon).svg) `svg` · [Icon](network-security/Wireshark%20Official%20Logo%20(Icon).png) `png` · [Logo](network-security/Wireshark%20Official%20Logo.svg) `svg` |
 | <img src="network-security/Zeek%20Official%20Logo.png" height="40" alt="Zeek"> | **Zeek**<br><sub>Network Monitoring: Network security monitor that turns traffic into rich logs</sub> | [Logo](network-security/Zeek%20Official%20Logo.png) `png` |
+| <img src="network-security/Zenmap%20Official%20Logo%20(Icon).png" height="40" alt="Zenmap"> | **Zenmap**<br><sub>Network Scanner: Official graphical interface for Nmap</sub> | [Icon](network-security/Zenmap%20Official%20Logo%20(Icon).png) `png` |
+| <img src="network-security/ZMap%20Official%20Logo%20(Icon).png" height="40" alt="ZMap"> | **ZMap**<br><sub>Internet Scanner: Scans the entire IPv4 address space in minutes</sub> | [Icon](network-security/ZMap%20Official%20Logo%20(Icon).png) `png` |
 | <img src="network-security/Zscaler%20Official%20Logo.svg" height="40" alt="Zscaler"> | **Zscaler**<br><sub>SASE / Zero Trust: Cloud security and zero-trust network access</sub> | [Logo](network-security/Zscaler%20Official%20Logo.svg) `svg` |
 | <img src="network-security/Zui%20Official%20Logo%20(Icon).svg" height="40" alt="Zui"> | **Zui**<br><sub>Network Analysis: Desktop app for exploring Zeek and Suricata logs and PCAPs (formerly Brim)</sub> | [Icon](network-security/Zui%20Official%20Logo%20(Icon).svg) `svg` |
 
@@ -298,12 +308,18 @@ Every file is named `<Tool> Official Logo (<Version>).<ext>`. Click a version na
 | Logo | Tool | Files |
 |:---:|---|---|
 | <img src="vulnerability-management/Acunetix%20Official%20Logo.png" height="40" alt="Acunetix"> | **Acunetix**<br><sub>Web Vulnerability Scanner: Automated web application security scanner</sub> | [Logo](vulnerability-management/Acunetix%20Official%20Logo.png) `png` |
+| <img src="vulnerability-management/Clair%20Official%20Logo.png" height="40" alt="Clair"> | **Clair**<br><sub>Container Scanning: Static vulnerability analysis for container images</sub> | [Logo](vulnerability-management/Clair%20Official%20Logo.png) `png` |
 | <img src="vulnerability-management/Greenbone%20Official%20Logo.png" height="40" alt="Greenbone"> | **Greenbone**<br><sub>Vulnerability Scanner: Maker of OpenVAS, the open-source vulnerability scanner</sub> | [Logo](vulnerability-management/Greenbone%20Official%20Logo.png) `png` |
+| <img src="vulnerability-management/Grype%20Official%20Logo.png" height="40" alt="Grype"> | **Grype**<br><sub>Vulnerability Scanner: Vulnerability scanner for container images and filesystems</sub> | [Logo](vulnerability-management/Grype%20Official%20Logo.png) `png` |
+| <img src="vulnerability-management/Lynis%20Official%20Logo%20(CISOfy).svg" height="40" alt="Lynis"> | **Lynis**<br><sub>Host Auditing: Security auditing and hardening for Linux, macOS and Unix systems</sub> | [CISOfy](vulnerability-management/Lynis%20Official%20Logo%20(CISOfy).svg) `svg` |
+| <img src="vulnerability-management/OSV-Scanner%20Official%20Logo.svg" height="40" alt="OSV-Scanner"> | **OSV-Scanner**<br><sub>Vulnerability Scanner: Google's scanner for vulnerable open-source dependencies</sub> | [Icon White](vulnerability-management/OSV-Scanner%20Official%20Logo%20(Icon%20White).svg) `svg` · [Icon](vulnerability-management/OSV-Scanner%20Official%20Logo%20(Icon).svg) `svg` · [White](vulnerability-management/OSV-Scanner%20Official%20Logo%20(White).svg) `svg` · [Logo](vulnerability-management/OSV-Scanner%20Official%20Logo.svg) `svg` |
+| <img src="vulnerability-management/OWASP%20Dependency-Check%20Official%20Logo.svg" height="40" alt="OWASP Dependency-Check"> | **OWASP Dependency-Check**<br><sub>SCA: Finds known-vulnerable libraries in project dependencies</sub> | [Icon](vulnerability-management/OWASP%20Dependency-Check%20Official%20Logo%20(Icon).svg) `svg` · [Logo](vulnerability-management/OWASP%20Dependency-Check%20Official%20Logo.svg) `svg` |
 | <img src="vulnerability-management/Qualys%20Official%20Logo.png" height="40" alt="Qualys"> | **Qualys**<br><sub>Vulnerability Management: Cloud vulnerability management and compliance</sub> | [Logo](vulnerability-management/Qualys%20Official%20Logo.png) `png` |
 | <img src="vulnerability-management/Rapid7%20Official%20Logo.svg" height="40" alt="Rapid7"> | **Rapid7**<br><sub>Vulnerability Management: InsightVM, InsightIDR and maker of Metasploit</sub> | [Logo](vulnerability-management/Rapid7%20Official%20Logo.svg) `svg` |
 | <img src="vulnerability-management/Snyk%20Official%20Logo.svg" height="40" alt="Snyk"> | **Snyk**<br><sub>AppSec: Developer security for code, dependencies and containers</sub> | [Logo](vulnerability-management/Snyk%20Official%20Logo.svg) `svg` |
 | <img src="vulnerability-management/Tenable%20Official%20Logo.svg" height="40" alt="Tenable"> | **Tenable**<br><sub>Vulnerability Management: Exposure and vulnerability management vendor (maker of Nessus)</sub> | [Icon](vulnerability-management/Tenable%20Official%20Logo%20(Icon).svg) `svg` · [Logo](vulnerability-management/Tenable%20Official%20Logo.svg) `svg` |
 | <img src="vulnerability-management/Tenable%20Nessus%20Official%20Logo.svg" height="40" alt="Tenable Nessus"> | **Tenable Nessus**<br><sub>Vulnerability Scanner: Widely used vulnerability scanner</sub> | [Logo](vulnerability-management/Tenable%20Nessus%20Official%20Logo.svg) `svg` |
+| <img src="vulnerability-management/Vuls%20Official%20Logo.png" height="40" alt="Vuls"> | **Vuls**<br><sub>Vulnerability Scanner: Agentless vulnerability scanner for Linux and FreeBSD</sub> | [Icon](vulnerability-management/Vuls%20Official%20Logo%20(Icon).png) `png` · [Logo](vulnerability-management/Vuls%20Official%20Logo.png) `png` |
 
 <p align="right"><a href="#-cybersecurity-logos">↑ back to top</a></p>
 
@@ -313,11 +329,15 @@ Every file is named `<Tool> Official Logo (<Version>).<ext>`. Click a version na
 
 | Logo | Tool | Files |
 |:---:|---|---|
+| <img src="offensive-security/Arjun%20Official%20Logo.png" height="40" alt="Arjun"> | **Arjun**<br><sub>Parameter Discovery: Finds hidden HTTP parameters</sub> | [Logo](offensive-security/Arjun%20Official%20Logo.png) `png` |
 | <img src="offensive-security/BeEF%20Official%20Logo.png" height="40" alt="BeEF"> | **BeEF**<br><sub>Browser Exploitation: Browser Exploitation Framework</sub> | [Logo](offensive-security/BeEF%20Official%20Logo.png) `png` |
 | <img src="offensive-security/BloodHound%20Official%20Logo.svg" height="40" alt="BloodHound"> | **BloodHound**<br><sub>AD Attack Paths: Maps Active Directory attack paths</sub> | [Icon](offensive-security/BloodHound%20Official%20Logo%20(Icon).svg) `svg` · [White](offensive-security/BloodHound%20Official%20Logo%20(White).svg) `svg` · [Logo](offensive-security/BloodHound%20Official%20Logo.svg) `svg` |
 | <img src="offensive-security/Burp%20Suite%20Official%20Logo.svg" height="40" alt="Burp Suite"> | **Burp Suite**<br><sub>Web App Testing: Web application security testing proxy</sub> | [Community](offensive-security/Burp%20Suite%20Official%20Logo%20(Community).svg) `svg` · [Icon Community](offensive-security/Burp%20Suite%20Official%20Logo%20(Icon%20Community).svg) `svg` · [Icon](offensive-security/Burp%20Suite%20Official%20Logo%20(Icon).svg) `svg` · [Logo](offensive-security/Burp%20Suite%20Official%20Logo.svg) `svg` |
+| <img src="offensive-security/Caido%20Official%20Logo%20(Icon).webp" height="40" alt="Caido"> | **Caido**<br><sub>Web Proxy: Lightweight web security auditing proxy</sub> | [Icon](offensive-security/Caido%20Official%20Logo%20(Icon).webp) `webp` |
 | <img src="offensive-security/Cobalt%20Strike%20Official%20Logo%20(White).svg" height="40" alt="Cobalt Strike"> | **Cobalt Strike**<br><sub>C2 / Red Team: Commercial adversary simulation and C2 platform</sub> | [White](offensive-security/Cobalt%20Strike%20Official%20Logo%20(White).svg) `svg` |
+| <img src="offensive-security/Dirsearch%20Official%20Logo.png" height="40" alt="Dirsearch"> | **Dirsearch**<br><sub>Content Discovery: Web path and directory brute-forcer</sub> | [White](offensive-security/Dirsearch%20Official%20Logo%20(White).png) `png` · [Logo](offensive-security/Dirsearch%20Official%20Logo.png) `png` |
 | <img src="offensive-security/Evilginx%20Official%20Logo.png" height="40" alt="Evilginx"> | **Evilginx**<br><sub>Phishing: Man-in-the-middle phishing framework that bypasses MFA</sub> | [Logo](offensive-security/Evilginx%20Official%20Logo.png) `png` |
+| <img src="offensive-security/Feroxbuster%20Official%20Logo%20(Background).png" height="40" alt="Feroxbuster"> | **Feroxbuster**<br><sub>Content Discovery: Fast, recursive web content discovery tool</sub> | [Background](offensive-security/Feroxbuster%20Official%20Logo%20(Background).png) `png` |
 | <img src="offensive-security/ffuf%20Official%20Logo.png" height="40" alt="ffuf"> | **ffuf**<br><sub>Web Fuzzing: Fast web fuzzer for content discovery</sub> | [Logo](offensive-security/ffuf%20Official%20Logo.png) `png` |
 | <img src="offensive-security/Hashcat%20Official%20Logo%20(Icon).png" height="40" alt="Hashcat"> | **Hashcat**<br><sub>Password Cracking: GPU-accelerated password recovery</sub> | [Icon](offensive-security/Hashcat%20Official%20Logo%20(Icon).png) `png` |
 | <img src="offensive-security/Kali%20Linux%20Official%20Logo.svg" height="40" alt="Kali Linux"> | **Kali Linux**<br><sub>Pentest OS: Linux distribution for penetration testing</sub> | [Icon](offensive-security/Kali%20Linux%20Official%20Logo%20(Icon).svg) `svg` · [Logo](offensive-security/Kali%20Linux%20Official%20Logo.svg) `svg` |
@@ -330,7 +350,10 @@ Every file is named `<Tool> Official Logo (<Version>).<ext>`. Click a version na
 | <img src="offensive-security/Sliver%20Official%20Logo.svg" height="40" alt="Sliver"> | **Sliver**<br><sub>C2 / Red Team: Open-source adversary emulation and C2 framework</sub> | [Logo](offensive-security/Sliver%20Official%20Logo.svg) `svg` |
 | <img src="offensive-security/sqlmap%20Official%20Logo.png" height="40" alt="sqlmap"> | **sqlmap**<br><sub>SQL Injection: Automatic SQL injection and database takeover tool</sub> | [Logo](offensive-security/sqlmap%20Official%20Logo.png) `png` |
 | <img src="offensive-security/THC%20Hydra%20Official%20Logo.png" height="40" alt="THC Hydra"> | **THC Hydra**<br><sub>Password Attacks: Online password brute-forcing tool</sub> | [Logo](offensive-security/THC%20Hydra%20Official%20Logo.png) `png` |
+| <img src="offensive-security/Wapiti%20Official%20Logo.png" height="40" alt="Wapiti"> | **Wapiti**<br><sub>Web Scanner: Black-box web application vulnerability scanner</sub> | [Logo](offensive-security/Wapiti%20Official%20Logo.png) `png` |
+| <img src="offensive-security/Wfuzz%20Official%20Logo.svg" height="40" alt="Wfuzz"> | **Wfuzz**<br><sub>Web Fuzzing: Web application fuzzer for brute-forcing parameters and paths</sub> | [Icon](offensive-security/Wfuzz%20Official%20Logo%20(Icon).svg) `svg` · [Logo](offensive-security/Wfuzz%20Official%20Logo.svg) `svg` |
 | <img src="offensive-security/WPScan%20Official%20Logo.png" height="40" alt="WPScan"> | **WPScan**<br><sub>Web Scanner: WordPress vulnerability scanner</sub> | [Logo](offensive-security/WPScan%20Official%20Logo.png) `png` |
+| <img src="offensive-security/XSStrike%20Official%20Logo.png" height="40" alt="XSStrike"> | **XSStrike**<br><sub>XSS Testing: Advanced cross-site scripting detection suite</sub> | [Logo](offensive-security/XSStrike%20Official%20Logo.png) `png` |
 | <img src="offensive-security/ZAP%20Official%20Logo.svg" height="40" alt="ZAP"> | **ZAP**<br><sub>Web App Testing: Open-source web app scanner (formerly OWASP ZAP)</sub> | [Icon](offensive-security/ZAP%20Official%20Logo%20(Icon).png) `png` · [Logo](offensive-security/ZAP%20Official%20Logo.svg) `svg` |
 
 <p align="right"><a href="#-cybersecurity-logos">↑ back to top</a></p>
