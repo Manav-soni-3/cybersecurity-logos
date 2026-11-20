@@ -92,7 +92,7 @@ Learn the workflow employers expect: triage, investigation, escalation and repor
 **The logo library behind haxcamp: official logos of the security tools we teach and use.**
 Taken from each tool's official website · transparent backgrounds · every available version.
 
-![Logos](https://img.shields.io/badge/logos-312-0d1117?style=for-the-badge&labelColor=3b4fe4)
+![Logos](https://img.shields.io/badge/logos-315-0d1117?style=for-the-badge&labelColor=3b4fe4)
 ![Tools](https://img.shields.io/badge/tools-173-0d1117?style=for-the-badge&labelColor=3b4fe4)
 ![Background](https://img.shields.io/badge/background-transparent-0d1117?style=for-the-badge&labelColor=3b4fe4)
 ![Formats](https://img.shields.io/badge/formats-SVG%20%7C%20PNG%20%7C%20WEBP-0d1117?style=for-the-badge&labelColor=3b4fe4)
@@ -353,7 +353,7 @@ Every file is named `<Tool> Official Logo (<Version>).<ext>`. Click a version na
 | <img src="offensive-security/THC%20Hydra%20Official%20Logo.png" height="40" alt="THC Hydra"> | **THC Hydra**<br><sub>Password Attacks: Online password brute-forcing tool</sub> | [Logo](offensive-security/THC%20Hydra%20Official%20Logo.png) `png` |
 | <img src="offensive-security/Wapiti%20Official%20Logo.png" height="40" alt="Wapiti"> | **Wapiti**<br><sub>Web Scanner: Black-box web application vulnerability scanner</sub> | [Logo](offensive-security/Wapiti%20Official%20Logo.png) `png` |
 | <img src="offensive-security/Wfuzz%20Official%20Logo.svg" height="40" alt="Wfuzz"> | **Wfuzz**<br><sub>Web Fuzzing: Web application fuzzer for brute-forcing parameters and paths</sub> | [Icon](offensive-security/Wfuzz%20Official%20Logo%20(Icon).svg) `svg` · [Logo](offensive-security/Wfuzz%20Official%20Logo.svg) `svg` |
-| <img src="offensive-security/WPScan%20Official%20Logo.png" height="40" alt="WPScan"> | **WPScan**<br><sub>Web Scanner: WordPress vulnerability scanner</sub> | [Logo](offensive-security/WPScan%20Official%20Logo.png) `png` |
+| <img src="offensive-security/WPScan%20Official%20Logo.png" height="40" alt="WPScan"> | **WPScan**<br><sub>Web Scanner: WordPress vulnerability scanner</sub> | [Icon White](offensive-security/WPScan%20Official%20Logo%20(Icon%20White).png) `png` · [Icon](offensive-security/WPScan%20Official%20Logo%20(Icon).png) `png` · [White](offensive-security/WPScan%20Official%20Logo%20(White).png) `png` · [Logo](offensive-security/WPScan%20Official%20Logo.png) `png` |
 | <img src="offensive-security/XSStrike%20Official%20Logo.png" height="40" alt="XSStrike"> | **XSStrike**<br><sub>XSS Testing: Advanced cross-site scripting detection suite</sub> | [Logo](offensive-security/XSStrike%20Official%20Logo.png) `png` |
 | <img src="offensive-security/ZAP%20Official%20Logo.svg" height="40" alt="ZAP"> | **ZAP**<br><sub>Web App Testing: Open-source web app scanner (formerly OWASP ZAP)</sub> | [Icon](offensive-security/ZAP%20Official%20Logo%20(Icon).png) `png` · [Logo](offensive-security/ZAP%20Official%20Logo.svg) `svg` |
 
